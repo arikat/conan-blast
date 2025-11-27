@@ -9,7 +9,6 @@ The core of CoNaN-blast is a **ProteinConvNetEncoder**. It is designed to captur
 **Schematic:**
 
 ```
-graph TD
     Input[Protein Sequence] --> Emb[Embedding Layer]
     Emb --> Conv1[Conv1D (k=3)]
     Emb --> Conv2[Conv1D (k=5)]
