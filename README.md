@@ -4,7 +4,7 @@
 
 ## Architecture
 
-The core of CoNaN-blast is a **ProteinConvNetEncoder**. It is designed to capture local motifs and patterns in protein sequences using parallel convolutional filters of varying sizes.
+The core of CoNaN-blast is a **convolutional encoder**. It is designed to capture local motifs and patterns in protein sequences using parallel convolutional filters of varying sizes.
 
 **Schematic:**
 
