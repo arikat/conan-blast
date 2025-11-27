@@ -54,7 +54,7 @@ python search.py "MRRDQVLKVCANHIITKAIDLKPLNSSNNAMVWTATDYADGEAKVEQLAVRFKNQELADTFK
 
 *Note: The first run will process the database and cache embeddings to `database.pt`, which may take some time. Subsequent runs will be instant.*
 
-## 🧠 Training
+## Training
 
 The model was trained using a self-supervised contrastive learning approach (following SimCLR (Supervised Contrastive Learning: https://arxiv.org/pdf/2004.11362.pdf)).
 
